@@ -1,0 +1,51 @@
+{"partidas" : [
+    {
+        "dia":"11/10", 
+        "rival":"INU TEAM",
+        "orga":"ZIDE LATAM",
+        "orgalink":"https://www.instagram.com/zidelatam/",
+        "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 3", 
+        "resultado":"VICTORIA", 
+        "VOD":""
+    },
+
+    {
+        "dia":"11/10", 
+        "rival":"INU TEAM",
+        "orga":"ZIDE LATAM",
+        "orgalink":"https://www.instagram.com/zidelatam/",
+        "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 2", 
+        "resultado":"VICTORIA", 
+        "VOD":""
+    },
+
+    {
+        "dia":"11/10", 
+        "rival":"INU TEAM",
+        "orga":"ZIDE LATAM",
+        "orgalink":"https://www.instagram.com/zidelatam/",
+        "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 1", 
+        "resultado":"DERROTA", 
+        "VOD":""
+    },
+
+    {
+        "dia":"11/09", 
+        "rival":"IKIGAI ESPORTS",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":"https://www.instagram.com/ligatargon_targoneros/?hl=en",
+        "competencia":"TARGON LEAGUE - SEMIFINALES BO3 PARTIDA 2", 
+        "resultado":"VICTORIA", 
+        "VOD":""
+    },
+
+    {"dia":"11/09", 
+    "rival":"IKIGAI ESPORTS",
+    "orga":"COMUNIDAD TARGONEROS",
+    "orgalink":"https://www.instagram.com/ligatargon_targoneros/?hl=en",
+    "competencia":"TARGON LEAGUE - SEMIFINALES BO3 PARTIDA 1", 
+    "resultado":"VICTORIA", 
+    "VOD":""
+    }
+]}
+

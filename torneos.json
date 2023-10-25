@@ -1,0 +1,80 @@
+{"torneos" : [
+    {
+        "nombre":"lolcitox100pre",
+        "imagen":"https://i.ibb.co/FgtPtNy/lolcitox100pre-2023.png",
+        "orga":"ZIDE LATAM",
+        "orgalink":""
+    },
+    {
+        "nombre":"tl3",
+        "imagen":"https://i.ibb.co/QfGGKww/TL3-2023.png",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":""
+    },
+    {
+        "nombre":"ras6",
+        "imagen":"https://i.ibb.co/NLfyptc/ALLSTARS6-2023.png",
+        "orga":"TDIVERT ESPORTS",
+        "orgalink":""
+    },
+    {
+        "nombre":"wotw",
+        "imagen":"https://i.ibb.co/PNNQBqP/wotw-2023.png",
+        "orga":"HELL GUARDIANS ESPORTS",
+        "orgalink":""
+    },
+    {
+        "nombre":"ras4",
+        "imagen":"https://i.ibb.co/ZXyrsKG/ALLSTARS4-2023.png",
+        "orga":"TDIVERT ESPORTS",
+        "orgalink":""
+    },
+    {
+        "nombre":"tm3",
+        "imagen":"https://i.ibb.co/H7LkvJY/maoke3.png",
+        "orga":"TORNEOS MAOKE",
+        "orgalink":""
+    },
+    {
+        "nombre":"tsc",
+        "imagen":"https://i.ibb.co/4PtyCmM/tsc2.png",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":""
+    },
+    {
+        "nombre":"tm2",
+        "imagen":"https://i.ibb.co/K7gkGVg/maoke2.png",
+        "orga":"TORNEOS MAOKE",
+        "orgalink":""
+    },
+    {
+        "nombre":"tm1",
+        "imagen":"https://i.ibb.co/BKq95M4/maoke1.png",
+        "orga":"TORNEOS MAOKE",
+        "orgalink":""
+    },
+    {
+        "nombre":"aries",
+        "imagen":"https://i.ibb.co/Yyd7nPL/aries.png",
+        "orga":"ARIES SQUAD",
+        "orgalink":""
+    },
+    {
+        "nombre":"tsc1",
+        "imagen":"https://i.ibb.co/mXLbkrj/tsc1.png",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":""
+    },
+    {
+        "nombre":"tl1",
+        "imagen":"https://i.ibb.co/G0VmCcN/TL1-2023.png",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":""
+    },
+    {
+        "nombre":"lldp",
+        "imagen":"https://i.ibb.co/2P462bc/lldp1.png",
+        "orga":"COMUNIDAD TARGONEROS",
+        "orgalink":""
+    }
+]}
