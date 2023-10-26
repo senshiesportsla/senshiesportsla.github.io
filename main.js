@@ -20,8 +20,9 @@ const matchlist = matches.partidas
                 </div>
             `
         })})
-    }
-renderMatches()
+
+}renderMatches()
+
 
 function renderTrophies(){
 
@@ -33,13 +34,38 @@ const cuplist = copas.torneos
             cuplist.forEach(cup => {
                 document.getElementById("contenedortorneos").innerHTML +=`
                 <div>
-                    <img src="${cup.imagen}" alt="" id="torneo">
+                    <img src="${cup.imagen}" alt="trophy" id="torneo">
                     <p id="pietorneo">${cup.orga} | Más de esta organización <a href="${cup.orgalink}" target="_blank">aquí</a></p>
                 </div>
                 `
             })})
-        }
-renderTrophies()
+
+}renderTrophies()
+
+
+function renderPlayers(){
+
+    const ROSTERJSON = "./jugadores.json"
+    fetch(ROSTERJSON)
+            .then(data => data.json())
+            .then(players => {
+    const cuplist = players.jugadores
+                cuplist.forEach(player => {
+                    document.getElementById("jugadores").innerHTML +=`
+                    <div id="${player.cat}" onmouseover="mouseOver(${player.cat})">
+                        <a href="${player.linkredes}" style="text-decoration: none;" target="_blank">
+                            <div id="cajanombre">
+                                <div id="conjuntonombres">
+                                    <p id="nombreplayer">${player.nombre}</p>
+                                    <p id="infoplayer">${player.rol}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    `
+                })})
+                
+}renderPlayers()
 
 
 /*

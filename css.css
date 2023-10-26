@@ -1,5 +1,5 @@
 html{
-background-image: url("https://cdn.discordapp.com/attachments/563104328995307550/1166643716245684285/fondo.png");
+background-image: url("/imagenes/pattern.png");
 background-repeat:repeat;
 }
 
@@ -67,6 +67,12 @@ margin-left:30vw;
 margin-top:200px;
 width:50vw;
 margin-left:25vw;
+}
+
+#roster{
+margin-top:119px;
+width:16vw;
+margin-left:42vw;
 }
 
 #cajablanca{
@@ -179,4 +185,104 @@ color:#f02f2f;
 
 #vodA{
 color:#f02f2f;
+}
+
+#top{
+margin-left: 4px;
+margin-right: 4px;
+width: 20%;
+height: 630px;
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897255123525652/rivenbw.png);
+}
+
+#top:hover{
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897254607630366/riven.png);
+}
+
+#jg{
+margin-left: 4px;
+margin-right: 4px;
+width: 20%;
+height: 630px;
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897253282218024/leebw.png)
+}
+
+#jg:hover{
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897252904738907/lee.png);
+}
+
+#mid{
+margin-left: 4px;
+margin-right: 4px;
+width: 20%;
+height: 630px;
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897255803007066/azirbw.png)
+}
+
+#mid:hover{
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897255480033410/azir.png);
+}
+
+#adc{
+margin-left: 4px;
+margin-right: 4px;
+width: 20%;
+height: 630px;
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897256851583046/jhinbw.png)
+}
+
+#adc:hover{
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897256360837140/jhin.png);
+}
+
+#sup{
+margin-left: 4px;
+margin-right: 4px;
+width: 20%;
+height: 630px;
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897254192382023/pykebw.png)
+}
+
+#sup:hover{
+background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897253693268128/pyke.png);
+}
+
+#jugadores{
+background-color: #111;
+margin-top: 40px;
+width: 80%;
+padding-left: 10%;
+padding-right: 10%;
+display: flex;
+}
+
+#cajanombre{
+background-color: #ffffff;
+margin-top: 453px;
+text-align: center;
+font-family:'Heebo',sans-serif;
+}
+#conjuntonombres{
+padding: 5px;
+padding-bottom: 19px
+}
+
+#nombreplayer{
+color: #111;
+font-weight: 700;
+font-size:25px;
+}
+
+#infoplayer{
+color: #f02f2f;
+font-weight: 700;
+margin-top: -30px;
+font-size: 13px;
+}
+
+#guerreros{
+text-align: center;
+color: #9c9c9c;
+font-family:'Heebo',sans-serif;
+font-size: 18px;
 }

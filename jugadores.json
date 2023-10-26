@@ -1,0 +1,37 @@
+{"jugadores" : [
+    {
+        "nombre":"DERTAKO RIVEN", 
+        "rol":"TOP LANER",
+        "cat":"top",
+        "fotogris":"https://cdn.discordapp.com/attachments/563104328995307550/1166897255123525652/rivenbw.png",
+        "linkredes":"https://twitter.com/Dertako1"
+    },
+    {
+        "nombre":"TZ NINESS", 
+        "rol":"JUNGLER",
+        "cat":"jg",
+        "fotogris":"https://cdn.discordapp.com/attachments/563104328995307550/1166897253282218024/leebw.png",
+        "linkredes":"https://twitter.com/zNainess"
+    },
+    {
+        "nombre":"SEN JISOO", 
+        "rol":"MID LANER",
+        "cat":"mid",
+        "fotogris":"https://cdn.discordapp.com/attachments/563104328995307550/1166897255803007066/azirbw.png",
+        "linkredes":"https://twitter.com/Jiss3_"
+    },
+    {
+        "nombre":"SEN KLASS", 
+        "rol":"AD CARRY",
+        "cat":"adc",
+        "fotogris":"https://cdn.discordapp.com/attachments/563104328995307550/1166897256851583046/jhinbw.png",
+        "linkredes":"https://twitter.com/Zscinn_"
+    },
+    {
+        "nombre":"SEN EZMOOU", 
+        "rol":"SUPPORT",
+        "cat":"sup",
+        "fotogris":"https://cdn.discordapp.com/attachments/563104328995307550/1166897254192382023/pykebw.png",
+        "linkredes":""
+    }
+]}
