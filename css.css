@@ -196,6 +196,7 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 }
 
 #top:hover{
+animation: fadeIn 0.5s;
 background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897254607630366/riven.png);
 }
 
@@ -208,6 +209,7 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 }
 
 #jg:hover{
+animation: fadeIn 0.5s;
 background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897252904738907/lee.png);
 }
 
@@ -220,6 +222,7 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 }
 
 #mid:hover{
+animation: fadeIn 0.5s;
 background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897255480033410/azir.png);
 }
 
@@ -232,6 +235,7 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 }
 
 #adc:hover{
+animation: fadeIn 0.5s;
 background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897256360837140/jhin.png);
 }
 
@@ -244,7 +248,13 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 }
 
 #sup:hover{
+animation: fadeIn 0.5s;
 background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/1166897253693268128/pyke.png);
+}
+
+@keyframes fadeIn {
+0% { opacity: 0.5; }
+100% { opacity: 1; }
 }
 
 #jugadores{
