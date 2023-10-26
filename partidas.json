@@ -1,22 +1,12 @@
 {"partidas" : [
     {
-        "dia":"25/10", 
-        "rival":"JULIAN ESPORTS",
-        "orga":"HERNO PRODUCCIONES",
-        "orgalink":"https://www.instagram.com/zidelatam/",
-        "competencia":"LIBERTADORES 2023", 
-        "resultado":"DERROTA", 
-        "VOD":""
-    },
-
-    {
         "dia":"11/10", 
         "rival":"INU TEAM",
         "orga":"ZIDE LATAM",
         "orgalink":"https://www.instagram.com/zidelatam/",
         "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 3", 
         "resultado":"VICTORIA", 
-        "VOD":""
+        "VOD":"<a id='vodA' target='_blank' href='https://youtu.be/cEn8ojV0_nk?si=4OPd-jhuh8hbC2Ta&t=8415'>Mira la partida aquí</a>"
     },
 
     {
@@ -26,7 +16,7 @@
         "orgalink":"https://www.instagram.com/zidelatam/",
         "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 2", 
         "resultado":"VICTORIA", 
-        "VOD":""
+        "VOD":"<a id='vodA' target='_blank' href='https://youtu.be/cEn8ojV0_nk?si=uRjnX2gyDVu9AXy-&t=4783'>Mira la partida aquí</a>"
     },
 
     {
@@ -36,7 +26,7 @@
         "orgalink":"https://www.instagram.com/zidelatam/",
         "competencia":"LOLCITO X100PRE - FINAL BO3 - PARTIDA 1", 
         "resultado":"DERROTA", 
-        "VOD":""
+        "VOD":"<a id='vodA' target='_blank' href='https://youtu.be/cEn8ojV0_nk?si=YHTeHa736TyalASy&t=1384'>Mira la partida aquí</a>"
     },
 
     {
@@ -46,7 +36,7 @@
         "orgalink":"https://www.instagram.com/ligatargon_targoneros/?hl=en",
         "competencia":"TARGON LEAGUE - SEMIFINALES BO3 PARTIDA 2", 
         "resultado":"VICTORIA", 
-        "VOD":""
+        "VOD":"<a id='vodA' target='_blank' href='https://youtu.be/IkRVHz8Y0Kw?si=9M4BzyhBgxoqcVvf&t=4145'>Mira la partida aquí</a>"
     },
 
     {
@@ -56,6 +46,6 @@
         "orgalink":"https://www.instagram.com/ligatargon_targoneros/?hl=en",
         "competencia":"TARGON LEAGUE - SEMIFINALES BO3 PARTIDA 1", 
         "resultado":"VICTORIA", 
-        "VOD":""
+        "VOD":"<a id='vodA' target='_blank' href='https://youtu.be/IkRVHz8Y0Kw?si=XV5rGr2m4awErvBL&t=968'>Mira la partida aquí</a>"
     }
 ]}

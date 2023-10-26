@@ -12,7 +12,7 @@ const matchlist = matches.partidas
                         <p>${item.dia}</p>
                     </div>
                     <div id="div2">
-                        <p id="titulopartida">SENSHI ESPORTS VS ${item.rival}</p><p id="subtitulopartida"> <a id="vodA" target="_blank" href="${item.orgalink}">${item.orga}</a> | ${item.competencia} | <a id="vodA" target="_blank" href="${item.VOD}">Mira la partida aquí</a></p>
+                        <p id="titulopartida">SENSHI ESPORTS VS ${item.rival}</p><p id="subtitulopartida"> <a id="vodA" target="_blank" href="${item.orgalink}">${item.orga}</a> | ${item.competencia} | ${item.VOD}</p>
                     </div>
                     <div id="div3">
                         <p id="${item.resultado}">${item.resultado}</p>
