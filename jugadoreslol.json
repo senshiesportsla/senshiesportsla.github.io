@@ -1,0 +1,32 @@
+{"jugadores" : [
+    {
+        "nombre":"DERTAKO RIVEN", 
+        "rol":"TOP LANER",
+        "cat":"top",
+        "linkredes":"https://twitter.com/Dertako1"
+    },
+    {
+        "nombre":"TZ NAINESS", 
+        "rol":"JUNGLER",
+        "cat":"jg",
+        "linkredes":"https://twitter.com/zNainess"
+    },
+    {
+        "nombre":"SEN JISOO", 
+        "rol":"MID LANER",
+        "cat":"mid",
+        "linkredes":"https://twitter.com/Jiss3_"
+    },
+    {
+        "nombre":"SEN KLASS", 
+        "rol":"AD CARRY",
+        "cat":"adc",
+        "linkredes":"https://twitter.com/Zscinn_"
+    },
+    {
+        "nombre":"SEN EZMOOU", 
+        "rol":"SUPPORT",
+        "cat":"sup",
+        "linkredes":"https://twitter.com/ezmoou"
+    }
+]}

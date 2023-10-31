@@ -1,6 +1,7 @@
-html{
-background-image: url("https://cdn.discordapp.com/attachments/563104328995307550/1166643716245684285/fondo.png");
-background-repeat:repeat;
+html{ 
+background-image: url("https://cdn.discordapp.com/attachments/563104328995307550/1166643716245684285/fondo.png"); 
+background-repeat:repeat; 
+background-attachment: fixed; 
 }
 
 body{
@@ -20,7 +21,7 @@ z-index:99;
 }
 
 #logo{
-padding-left:25px;
+padding-left:30px;
 height:30;
 }
 
@@ -42,14 +43,24 @@ float:right;
 
 li a{
 display:block;
-color:#fff;
+color:#f1f1f1;
 text-align:center;
 padding:18px 26px;
 text-decoration:none;
 }
 
-li a :hover{
+li a:hover{
 color:#f02f2f;
+}
+
+#imageninicio{
+margin-top: 270px;
+width: 50vw;
+margin-left: 25%;
+}
+
+#inicio{
+height: 100vh;
 }
 
 h1{
@@ -61,6 +72,41 @@ color:#9c9c9c;
 font-size:21px;
 width:40vw;
 margin-left:30vw;
+}
+
+#subtituloinicio{
+margin-top: 50px;
+font-size:25px;
+color: #f02f2f;
+font-weight: 500;
+}
+
+#cuerpoinicio{
+width:100%;
+height:100vh;
+background-color:#111;
+opacity:90%;
+margin:0 auto;
+display: flex;
+}
+
+#contenedordetexto{
+width: 50vw;
+}
+
+#textolargo{
+text-align: center;
+font-size:27px;
+font-family:'Heebo',sans-serif;
+font-weight:300;
+color:#ddd;
+width: 80%;
+margin-left: 10%;
+margin-top: 300px;
+}
+
+#cuadradodiseño{
+width: 50vw;
 }
 
 #tituloprincipal{
@@ -77,7 +123,7 @@ margin-left:42vw;
 
 #cajablanca{
 width:100%;
-background-color:#fff;
+background-color:#f8f8f8;
 margin-top:150px;
 left:0;
 }
@@ -112,30 +158,19 @@ font-weight:600;
 color:#8f8f8f;
 }
 
-#cajanegra{
-width:100%;
-height:200px;
-background-color:#111;
-opacity:70%;
-top:0;
-left:0;
-margin:0 auto;
-}
-
 #contenedordepartidas{
 margin-left:10%;
 width:80%;
-height:100%;
 padding-top:80px;
 }
 
 #partida{
 font-family:'Heebo',sans-serif;
 font-weight:400;
-color:#fff;
+color:#f1f1f1;
 height:130px;
 background-color:#151515;
-margin-top:10px;
+margin-top:20px;
 display:grid;
 grid-template-columns:10% 70% 20%;
 }
@@ -145,8 +180,7 @@ align-self:center;
 text-align:center;
 font-weight:700;
 font-size:25px;
-background-color:#f02f2f;
-color:#fff;
+color:#f8f8f8;
 }
 
 #div2{
@@ -257,6 +291,10 @@ background-image: url(https://cdn.discordapp.com/attachments/563104328995307550/
 100% { opacity: 1; }
 }
 
+#contenedorroster{
+height: 100vh;
+}
+
 #jugadores{
 background-color: #111;
 margin-top: 40px;
@@ -267,7 +305,7 @@ display: flex;
 }
 
 #cajanombre{
-background-color: #ffffff;
+background-color: #f1f1f1;
 margin-top: 453px;
 text-align: center;
 font-family:'Heebo',sans-serif;
@@ -296,3 +334,158 @@ color: #9c9c9c;
 font-family:'Heebo',sans-serif;
 font-size: 18px;
 }
+
+.footer{
+margin-top: 80px;
+width:100%;
+height:350px;
+background-color:rgba(24, 24, 24, 0.7);
+font-family:'Heebo',sans-serif;
+color:#ddd;
+font-weight: 300;
+text-align: center;
+}
+
+.footer_main{
+width: 90%;
+margin-left: 5%;
+display: flex;
+flex-direction: row;
+height: 280px;
+opacity: 100%;
+}
+
+#fmain1{
+width: 20%;
+}
+
+.footerlogo{
+margin-top: 12%;
+opacity: 100%;
+height: 70%;
+}
+
+.fmain2{
+width:15%;
+padding-left: 5%;
+margin-top: 1%;
+font-size: 20px;
+
+text-align: start;
+display: flex;
+flex-direction: column;
+}
+
+#fmain3{
+width:25%;
+padding-left: 5%;
+margin-top: 1%;
+font-size: 20px;
+text-align: start;
+display: flex;
+flex-direction: column;
+}
+
+h2{
+font-family:'Heebo',sans-serif;
+color:#ddd;
+font-weight: 600;
+font-size: 25px;
+}
+
+.fmain4{
+margin-top: 6%;
+width: 22%;
+}
+
+#redesfooter{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+#imganchor{
+width: 15%;
+}
+
+#logored{
+    width: 100%;
+}
+
+#sponsorsfooter{
+display: flex;
+flex-direction: row;
+margin-left: 10%;
+width: 80%;
+justify-content: space-around;
+align-items: center;
+}
+
+#sponsorsfooter img{
+    width:45%
+    }
+
+.divisor{
+height: 2px;
+background-color: #505050;
+width: 90vw;
+margin-left: 5vw;
+}
+
+.footer_secondary{
+margin-top: 9px;
+width: 90vw;
+margin-left: 5vw;
+display: grid;
+grid-template-columns: 45% 10% 45%;
+justify-content: space-between;
+}
+
+.footer_terms{
+display: flex;
+justify-content: space-around;
+}
+
+.aterms{
+color: #9c9c9c;
+}
+
+#footeranchor{
+    color: #ddd;
+    text-decoration: none;
+}
+
+#footeranchor:hover{
+    color: #f02f2f;
+}
+
+#contendorredes{
+width: 100%;
+height: 50vh;
+margin-top: 25vh;
+margin-bottom: 13vh;
+background-color: #111;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+#cuadradored{
+width: 24%;
+height: 100%;
+background-color: #f8f8f8;
+}
+
+#cuadradored:hover{
+    background-color: #111;
+}
+
+#miniaturacuadrado{
+width: 40%;
+margin:30%
+}
+
+#miniaturacuadrado:hover{
+    width: 50%;
+    margin:25%
+    }

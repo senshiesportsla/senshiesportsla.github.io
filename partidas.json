@@ -1,5 +1,41 @@
 {"partidas" : [
     {
+        "dia":"30/10", 
+        "rival":"POG TEAM",
+        "orga":"COMMUNITY GAMING",
+        "orgalink":"https://www.communitygaming.io/",
+        "competencia":"CG SERIES 7 - FINAL", 
+        "resultado":"DERROTA", 
+        "VOD":"VOD no disponible."
+    },
+    {
+        "dia":"30/10", 
+        "rival":"AETHERIAL ESPORTS",
+        "orga":"COMMUNITY GAMING",
+        "orgalink":"https://www.communitygaming.io/",
+        "competencia":"CG SERIES 7 - SEMIFINAL", 
+        "resultado":"VICTORIA", 
+        "VOD":"VOD no disponible."
+    },
+    {
+        "dia":"30/10", 
+        "rival":"VIKTUS",
+        "orga":"COMMUNITY GAMING",
+        "orgalink":"https://www.communitygaming.io/",
+        "competencia":"CG SERIES 7 - CUARTOS DE FINAL", 
+        "resultado":"VICTORIA", 
+        "VOD":"VOD no disponible."
+    },
+    {
+        "dia":"30/10", 
+        "rival":"ETHERNALS GAMING",
+        "orga":"COMMUNITY GAMING",
+        "orgalink":"https://www.communitygaming.io/",
+        "competencia":"CG SERIES 7 - OCTAVOS DE FINAL", 
+        "resultado":"VICTORIA", 
+        "VOD":"VOD no disponible."
+    },
+    {
         "dia":"11/10", 
         "rival":"INU TEAM",
         "orga":"ZIDE LATAM",

@@ -45,14 +45,14 @@ const cuplist = copas.torneos
 
 function renderPlayers(){
 
-    const ROSTERJSON = "./jugadores.json"
+    const ROSTERJSON = "./jugadoreslol.json"
     fetch(ROSTERJSON)
             .then(data => data.json())
             .then(players => {
     const cuplist = players.jugadores
                 cuplist.forEach(player => {
                     document.getElementById("jugadores").innerHTML +=`
-                    <div id="${player.cat}" onmouseover="mouseOver(${player.cat})">
+                    <div id="${player.cat}">
                         <a href="${player.linkredes}" style="text-decoration: none;" target="_blank">
                             <div id="cajanombre">
                                 <div id="conjuntonombres">
@@ -69,6 +69,13 @@ function renderPlayers(){
 
 
 /*
+
+{
+"nombre":"¡POSTULATE!", 
+"rol":"JUNGLER",
+"cat":"jg",
+"linkredes":"https://docs.google.com/forms/d/e/1FAIpQLSd-kEKJmilYvlHSb9OdZEJJ1NmOEuRC5lb5jGrQHWBwCa_KzQ/viewform?usp=sf_link"
+},
 
 {
     "dia":"",
